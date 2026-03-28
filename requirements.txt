@@ -1,8 +1,10 @@
 google-generativeai
 python-dotenv
-PyPDF2
+pdfplumber
 langchain
 langchain-google-genai
 faiss-cpu
 streamlit
 sentence-transformers
+reportlab
+google-genai
